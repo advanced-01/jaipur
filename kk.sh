@@ -1,2 +1,2 @@
 other major activities 
-this is master branch 
+this is main branch 
